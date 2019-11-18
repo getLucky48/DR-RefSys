@@ -1,0 +1,8 @@
+name: DR-RefSys
+main: refsys.main.RefSys
+version: 1.0.0
+author: getLucky48
+website: vk.com/getLucky48
+commands:
+  code:
+    usage: /code
